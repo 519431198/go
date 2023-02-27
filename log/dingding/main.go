@@ -9,5 +9,5 @@ func main() {
 		EnableAt:    true, // 开启艾特
 		//AtAll:       true, // 艾特所有人
 	}
-	_ = d.SendMessage("你是老板！", "18326147303")
+	_ = d.SendMessage("斌哥! 前端调试好么? PPT做好么?", "18726131083")
 }
